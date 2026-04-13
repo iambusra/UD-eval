@@ -1,0 +1,260 @@
+2026-03-17 11:28:59,719 INFO Run started
+2026-03-17 11:28:59,719 INFO Run dir: outputs/v1_run/2026-03-17_11-28-59
+2026-03-17 11:28:59,719 INFO Total prompts: 28
+2026-03-17 11:28:59,719 INFO Already completed: 0
+2026-03-17 11:28:59,719 INFO Remaining: 28
+2026-03-17 11:28:59,719 INFO Processing 1/28: bio_1129
+2026-03-17 11:28:59,720 ERROR Failed: bio_1129
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,722 INFO Processing 2/28: bio_1201
+2026-03-17 11:28:59,722 ERROR Failed: bio_1201
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,722 INFO Processing 3/28: bio_1314
+2026-03-17 11:28:59,722 ERROR Failed: bio_1314
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,723 INFO Processing 4/28: bio_1332
+2026-03-17 11:28:59,723 ERROR Failed: bio_1332
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,723 INFO Processing 5/28: bio_1350
+2026-03-17 11:28:59,723 ERROR Failed: bio_1350
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,723 INFO Processing 6/28: bio_1507
+2026-03-17 11:28:59,723 ERROR Failed: bio_1507
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,723 INFO Processing 7/28: bio_154
+2026-03-17 11:28:59,723 ERROR Failed: bio_154
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,724 INFO Processing 8/28: bio_1682
+2026-03-17 11:28:59,724 ERROR Failed: bio_1682
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,724 INFO Processing 9/28: bio_1718
+2026-03-17 11:28:59,724 ERROR Failed: bio_1718
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,724 INFO Processing 10/28: bio_1781
+2026-03-17 11:28:59,724 ERROR Failed: bio_1781
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,724 INFO Processing 11/28: bio_1937
+2026-03-17 11:28:59,724 ERROR Failed: bio_1937
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,725 INFO Processing 12/28: bio_1999
+2026-03-17 11:28:59,725 ERROR Failed: bio_1999
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,725 INFO Processing 13/28: bio_399
+2026-03-17 11:28:59,725 ERROR Failed: bio_399
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,725 INFO Processing 14/28: bio_402
+2026-03-17 11:28:59,725 ERROR Failed: bio_402
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,725 INFO Processing 15/28: bio_409
+2026-03-17 11:28:59,725 ERROR Failed: bio_409
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,726 INFO Processing 16/28: bio_494
+2026-03-17 11:28:59,726 ERROR Failed: bio_494
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,726 INFO Processing 17/28: bio_588
+2026-03-17 11:28:59,726 ERROR Failed: bio_588
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,726 INFO Processing 18/28: bio_75
+2026-03-17 11:28:59,726 ERROR Failed: bio_75
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,726 INFO Processing 19/28: bio_83
+2026-03-17 11:28:59,726 ERROR Failed: bio_83
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,727 INFO Processing 20/28: bio_876
+2026-03-17 11:28:59,727 ERROR Failed: bio_876
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,727 INFO Processing 21/28: bio_9
+2026-03-17 11:28:59,727 ERROR Failed: bio_9
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,727 INFO Processing 22/28: ess_109
+2026-03-17 11:28:59,727 ERROR Failed: ess_109
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,727 INFO Processing 23/28: ess_1185
+2026-03-17 11:28:59,727 ERROR Failed: ess_1185
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,728 INFO Processing 24/28: ess_1191
+2026-03-17 11:28:59,728 ERROR Failed: ess_1191
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,728 INFO Processing 25/28: ess_1399
+2026-03-17 11:28:59,728 ERROR Failed: ess_1399
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,728 INFO Processing 26/28: ess_1679
+2026-03-17 11:28:59,728 ERROR Failed: ess_1679
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,729 INFO Processing 27/28: news_1581
+2026-03-17 11:28:59,729 ERROR Failed: news_1581
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,729 INFO Processing 28/28: pop_1591
+2026-03-17 11:28:59,729 ERROR Failed: pop_1591
+Traceback (most recent call last):
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 438, in main
+    prompt=wrap_prompt(prompt),
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/busramarsan/Documents/phd/projects/UD-eval/run_llm_experiment.py", line 212, in wrap_prompt
+    {"original_form": "İnsanlar yine onları tercih ediyor."}
+ValueError: Invalid format specifier ' "İnsanlar yine onları tercih ediyor."' for object of type 'str'
+2026-03-17 11:28:59,729 INFO Newly processed: 0
+2026-03-17 11:28:59,729 INFO Total saved outputs: 0
+2026-03-17 11:28:59,729 INFO Run finished

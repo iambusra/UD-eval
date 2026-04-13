@@ -1,0 +1,22 @@
+{
+  "n_rows_total": 28,
+  "n_rows_with_fixed_and_error_and_gold": 28,
+  "fixed_mean_char_similarity": 0.9433462792803612,
+  "error_mean_char_similarity": 0.8983721116228109,
+  "fixed_mean_lemma_seq_similarity": 0.7957410742074608,
+  "error_mean_lemma_seq_similarity": 0.6215478815130517,
+  "fixed_mean_lemma_f1": 0.7957410742074608,
+  "error_mean_lemma_f1": 0.6215478815130517,
+  "mean_char_similarity_diff_fixed_minus_error": 0.044974167657550156,
+  "mean_lemma_seq_similarity_diff_fixed_minus_error": 0.17419319269440897,
+  "mean_lemma_f1_diff_fixed_minus_error": 0.17419319269440897,
+  "n_fixed_better_char": 23,
+  "n_error_better_char": 5,
+  "n_tie_char": 0,
+  "n_fixed_better_lemma_seq": 19,
+  "n_error_better_lemma_seq": 1,
+  "n_tie_lemma_seq": 8,
+  "n_fixed_better_lemma_f1": 19,
+  "n_error_better_lemma_f1": 1,
+  "n_tie_lemma_f1": 8
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2026-03-17_11-28-59",
+  "experiment_name": "v1_run",
+  "prompts_file": "/Users/busramarsan/Documents/phd/projects/UD-eval/sentences_errors_prompts.json",
+  "run_dir": "/Users/busramarsan/Documents/phd/projects/UD-eval/outputs/v1_run/2026-03-17_11-28-59",
+  "model": "gpt-4o",
+  "api_url": "https://api.openai.com/v1/responses",
+  "prompt_count": 28,
+  "sleep": 0.0,
+  "timeout": 180,
+  "max_retries": 5,
+  "temperature": null,
+  "instructions": null,
+  "note": null
+}
